@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Burpy-proto/static/css/main.80a9b00c.chunk.css",
+    "main.js": "/Burpy-proto/static/js/main.d8afc2ac.chunk.js",
+    "main.js.map": "/Burpy-proto/static/js/main.d8afc2ac.chunk.js.map",
+    "runtime-main.js": "/Burpy-proto/static/js/runtime-main.6393e4d0.js",
+    "runtime-main.js.map": "/Burpy-proto/static/js/runtime-main.6393e4d0.js.map",
+    "static/js/2.35fff5df.chunk.js": "/Burpy-proto/static/js/2.35fff5df.chunk.js",
+    "static/js/2.35fff5df.chunk.js.map": "/Burpy-proto/static/js/2.35fff5df.chunk.js.map",
+    "index.html": "/Burpy-proto/index.html",
+    "static/css/main.80a9b00c.chunk.css.map": "/Burpy-proto/static/css/main.80a9b00c.chunk.css.map",
+    "static/js/2.35fff5df.chunk.js.LICENSE.txt": "/Burpy-proto/static/js/2.35fff5df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6393e4d0.js",
+    "static/js/2.35fff5df.chunk.js",
+    "static/css/main.80a9b00c.chunk.css",
+    "static/js/main.d8afc2ac.chunk.js"
+  ]
+}
